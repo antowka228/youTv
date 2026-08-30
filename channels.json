@@ -6,13 +6,125 @@
       "channels": [
         {
           "name": "DW на русском",
-          "url": "https://www.youtube.com/embed/gP7872YRFdk",
+          "url": "https://www.youtube.com/watch?v=ShzVaowx9fA",
           "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/092013/deutsche_welle.png?itok=VVKIGp9g"
         },
         {
           "name": "Euronews на русском",
           "url": "https://www.youtube.com/watch?v=lwYzwdBiaho",
-          "logo": "https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0005/0937/brand.gif?itok=rK98b_zg"
+          "logo": "https://yt3.ggpht.com/gPR-KBuAubk7Mr_9tUHcwk8xVwGBlm94LTEQnaTlyBzmVOSUXjV1a-CsT0eO-CXK4KN-RE1w4g=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Настоящее Время",
+          "url": "https://www.youtube.com/watch?v=1X1X1X1X1X1",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Радио Свобода",
+          "url": "https://www.youtube.com/watch?v=1X1X1X1X1X2",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Белсат",
+          "url": "https://www.youtube.com/watch?v=1X1X1X1X1X3",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Фридом",
+          "url": "https://www.youtube.com/watch?v=1X1X1X1X1X4",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "1+1",
+          "url": "https://www.youtube.com/watch?v=1X1X1X1X1X5",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Прямий",
+          "url": "https://www.youtube.com/watch?v=1X1X1X1X1X6",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "24 канал",
+          "url": "https://www.youtube.com/watch?v=1X1X1X1X1X7",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Еспрессо",
+          "url": "https://www.youtube.com/watch?v=1X1X1X1X1X8",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Апостроф TV",
+          "url": "https://www.youtube.com/watch?v=1X1X1X1X1X9",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Дождь",
+          "url": "https://www.youtube.com/watch?v=1X1X1X1X2X0",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Київ24",
+          "url": "https://www.youtube.com/watch?v=1X1X1X1X2X1",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Суспільне Новини",
+          "url": "https://www.youtube.com/watch?v=1X1X1X1X2X2",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        }
+      ]
+    },
+    {
+      "id": "entertainment",
+      "title": "Развлечения, сериалы и ностальгия",
+      "channels": [
+        {
+          "name": "Jetix (Ретро-анимация)",
+          "url": "https://www.youtube.com/watch?v=2X1X1X1X1X1",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Дембельский альбом (Культовые сериалы)",
+          "url": "https://www.youtube.com/watch?v=2X1X1X1X1X2",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Кучугуры ТВ («Сваты» и комедии)",
+          "url": "https://www.youtube.com/watch?v=2X1X1X1X1X3",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Топрак и Фидан (Драмы с дубляжом)",
+          "url": "https://www.youtube.com/watch?v=2X1X1X1X1X4",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Турецкие любовные истории (Мелодрамы)",
+          "url": "https://www.youtube.com/watch?v=2X1X1X1X1X5",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        }
+      ]
+    },
+    {
+      "id": "kids",
+      "title": "Детские и семейные каналы",
+      "channels": [
+        {
+          "name": "Маша и Медведь",
+          "url": "https://www.youtube.com/watch?v=3X1X1X1X1X1",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "Грузовичок Лёва",
+          "url": "https://www.youtube.com/watch?v=3X1X1X1X1X2",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
+        },
+        {
+          "name": "ТВ Деткам",
+          "url": "https://www.youtube.com/watch?v=3X1X1X1X1X3",
+          "logo": "https://yt3.ggpht.com/ytc/AIdro_k2D2...=s68-c-k-c0x00ffffff-no-rj"
         }
       ]
     }
